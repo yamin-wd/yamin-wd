@@ -80,13 +80,6 @@
 
 ---
 
-## 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yamin-wd&theme=algolia&row=1&margin-w=10&no-frame=true" />
-</p>
-
----
-
 ## 👀 Profile Views:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yamin-wd&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge"/>

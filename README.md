@@ -1,11 +1,10 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Md.Yamin&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi👋I'm,Md.Yamin&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Md.Yamin</h1>
-<h3 align="center">Frontend Developer from Bangladesh</h3>
+<h2 align="center">Frontend Developer from Bangladesh</h2>
 
 <!-- typed animetion -->
 <div align="center">
@@ -14,7 +13,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me:
 - 💻 Frontend Developer  
 - 🌱 Learning **JavaScript & PHP**  
 - ⚡ I love building websites  
@@ -22,7 +21,32 @@
 
 ---
 
-## 🛠️ Skills
+## 🤝 Connect With Me:
+<p align="center"> 
+  <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a> 
+  
+  <a href="https://facebook.com/YOUR_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook" />
+  </a> 
+  
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a> 
+
+  <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+
+  <a href="https://wa.me/YOUR_NUMBER" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Skills:
 <p align="center">
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -34,7 +58,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=yamin-wd&show_icons=true&theme=tokyonight" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamin-wd&layout=compact&theme=tokyonight" />
@@ -42,36 +66,36 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Streak:
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yamin-wd&theme=tokyonight" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake:
 <p align="center">
-<img src="https://raw.githubusercontent.com/yamin-wd/yamin-wd/output/snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yamin-wd&theme=tokyonight&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yamin-wd&theme=algolia&row=1&margin-w=10&no-frame=true" />
 </p>
 
 ---
 
-## 👀 Profile Views
+## 👀 Profile Views:
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=yamin-wd&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=yamin-wd&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge"/>
 </p>
 
 ---
 
-## 📌 Pinned Projects
-- 🌐 Portfolio Website (Coming Soon)
+## 📌 Pinned Projects:
+- 🌐 Portfolio Website ([Done✅](https://yamin.infinityfree.me))
 - 🛒 Ecommerce UI
 - 📱 Responsive Landing Page
 - 🎨 Tailwind Components
@@ -83,4 +107,4 @@
 </p>
 
 ⭐ From [yamin-wd](https://github.com/yamin-wd)
-```
+

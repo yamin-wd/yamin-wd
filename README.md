@@ -27,19 +27,19 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a> 
   
-  <a href="https://facebook.com/YOUR_LINK" target="_blank">
+  <a href="https://www.facebook.com/share/17FtwyLEWe/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook" />
   </a> 
   
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:mohammadyamin4992@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
   </a> 
 
-  <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
+  <a href="https://t.me/yamin_wd" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 
-  <a href="https://wa.me/YOUR_NUMBER" target="_blank">
+  <a href="https://wa.me/8801762694992" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
